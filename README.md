@@ -7,4 +7,4 @@ First microcontroller project, that I'm going to use in real house. The plan is 
 - some LED strips, would be placed inside wardrobe, still to calculate how much of this
 
 ## Control logic
-I'm going to create panel with 3 buttons, each of them would be controlling one mentioned light strip. Additionally, using magnetic sensor, wardrobe ones would be light only if door is open.
+I'm going to create panel with 3 buttons, each of them would be controlling one mentioned light strip. Wardrobe ones would be on only if doors are open (detected using magnetic sensor). Other ones would be on only if light level inside room is low enough (controllable using potentiometer).
