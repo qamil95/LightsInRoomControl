@@ -4,4 +4,4 @@
 unsigned long blockButtonsUntil = 0;
 const int timeOfButtonsBlock = 50;
 
-void changeLedState();
+void changeLedState(byte pinNumber);
